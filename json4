@@ -1,1 +1,1 @@
-{ "id": "foo", "bar": false, "baz": 6, "values": [1, ¡°2¡±, 3] }
+{ "id": "foo", "bar": false, "baz": 6, "values": [1, "2", 3] }
